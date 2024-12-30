@@ -81,3 +81,15 @@ The dataset includes climate data for:
 ## Note
 
 The code is designed for educational and research purposes. Results should be validated against official meteorological data for practical applications.
+## About the Author
+**Dr. Kanaka K. K., PhD, ARS**  
+Scientist  
+School of Bioinformatics  
+[ICAR-Indian Institute of Agricultural Biotechnology, Ranchi](https://iiab.icar.gov.in/)
+> [Be like IIAB!:](https://www.researchgate.net/publication/379512649_ICAR-IIAB_Annual_Report-_2023) IIAB is like yogic center where all the sciences (Plant, Animal, Aquatic,Mibrobiology, IT) meet to address emerging issues in food production.
+
+## 🔎 Spy on me
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=0dQ7Sf8AAAAJ&view_op=list_works&sortby=pubdate)
+- [GitHub: kkokay07](https://github.com/kkokay07)
+- [ResearchGate](https://www.researchgate.net/profile/Kanaka-K-K/research)
+- [Institute Website](https://iiab.icar.gov.in/staff/dr-kanaka-k-k/)
